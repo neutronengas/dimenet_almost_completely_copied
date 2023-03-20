@@ -1,0 +1,1 @@
+data/md17_aspirin.npz filter=lfs diff=lfs merge=lfs -text
